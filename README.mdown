@@ -1,0 +1,12 @@
+Blackboard Seestyle theme for Coda by Zander Martineau
+======================================================
+
+http://rathersplendid.net/home/coda-blackboard-seestyles-port
+
+A port of the basic Blackboard theme, from Textmate, with a few tweaks. These tweaks take inspiration from [Jason Robb’s Coda Seestyles](http://jasonrobb.com/2009/02/05/coda-seestyles-colorful-syntax/) where PHP code colours are warm & HTML code is cooler. 
+
+###Installation
+
+Background Colour: #0c1021
+
+To install, navigate to the Colours tab in Coda’s preferences, choose the relevant syntax mode then click the import button to import the specific style. You will need to do this for each syntax mode so rinse & repeat the previous instructions.
