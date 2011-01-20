@@ -7,7 +7,7 @@ A port of the basic Blackboard theme, from Textmate, with a few tweaks. These tw
 
 ###Installation
  
-Make sure you click the 'Use Inverted colours' checkbox otherwise the seestyle's will not work.
+Make sure you click the 'Use Inverted colours' checkbox otherwise the seestyles will not work.
 
 Background Colour: #0c1021
 
