@@ -6,6 +6,8 @@ http://rathersplendid.net/home/coda-blackboard-seestyles-port
 A port of the basic Blackboard theme, from Textmate, with a few tweaks. These tweaks take inspiration from [Jason Robb’s Coda Seestyles](http://jasonrobb.com/2009/02/05/coda-seestyles-colorful-syntax/) where PHP code colours are warm & HTML code is cooler. 
 
 ###Installation
+ 
+Make sure you click the 'Use Inverted colours' checkbox otherwise the seestyle's will not work.
 
 Background Colour: #0c1021
 
